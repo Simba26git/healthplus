@@ -28,7 +28,7 @@ const Home = ({ searchParams }: SearchParamProps) => {
               © 2024 HealthPlus
             </p>
             <Link href="/?admin=true" className="text-green-500">
-              Admin
+              .
             </Link>
           </div>
         </div>
